@@ -27,7 +27,7 @@ This is a simple command-line game where you need to guess a number between 1 an
 
 Here is an example of how the game appears when running:
 
-![Game Example](img/guessing_print.png)
+<img src="img/guessing_print.png" alt="Game Example" width="450" />
 
 ## ASCII Art
 
